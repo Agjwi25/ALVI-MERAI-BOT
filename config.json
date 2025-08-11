@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "ياسمين",
-    "PREFIX": "/",
+    "PREFIX": ".",
     "OTHERBOT": [
         "",
         "",
